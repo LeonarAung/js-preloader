@@ -3,6 +3,7 @@ Javascript Preloader
 
 ## Simple Implementation
 insert between ```<head>``` element
+
 ```<head>``` tag အတွင်း သို့ ထည့်သွင်းပါ ။
   
 ```
