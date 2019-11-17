@@ -26,3 +26,6 @@ parameter များအသုံးပြု၍ setting အား ပြင်
 ```
 <script src='https://js.mingalartech.com/production/preloader.js?loadingText=Loading...&loadingImage=https://loading.io/mod/spinner/coffee/index.svg&bgColor=#25686B&textColor=white&delay=3&hideAnimation=5'></script>
 ```
+
+## Free to use in your websites (with analytic)
+contact leonaraung@mingalartech.com
