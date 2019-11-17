@@ -15,10 +15,10 @@ parameter များအသုံးပြု၍ setting အား ပြင်
 
 ## accepeted parameters 
 
-<li>loadingImage</li>
-<li>loadingText</li>
-<li>bgColor</li>
-<li>textColor</li>
-<li>delay</li>
-<li>hideAnimation</li>
+<li>loadingImage (url)</li>
+<li>loadingText (text)</li>
+<li>bgColor (hash Color code)</li>
+<li>textColor (hash Color code)</li>
+<li>delay (seconds)</li>
+<li>hideAnimation (0 to 5)</li>
 
