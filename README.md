@@ -32,4 +32,4 @@ contact leonaraung@mingalartech.com for business purposes
 
 ##Works under 99% of modern popular browsers
 
-Demo - [Wordpress](https://bbn112.blogspot.com/p/document.html)
+[Demo](https://bbn112.blogspot.com/p/document.html)
