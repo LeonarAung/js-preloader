@@ -1,5 +1,6 @@
 # js-preloader
 Javascript Preloader
+[test Demo](https://bbn112.blogspot.com/p/document.html)
 
 ## Simple Implementation
 insert between ```<head>``` element<br/>
@@ -31,5 +32,3 @@ parameter များအသုံးပြု၍ setting အား ပြင်
 contact leonaraung@mingalartech.com for business purposes
 
 ##Works under 99% of modern popular browsers
-
-[test Demo](https://bbn112.blogspot.com/p/document.html)
