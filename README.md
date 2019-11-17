@@ -22,3 +22,7 @@ parameter များအသုံးပြု၍ setting အား ပြင်
 <li>delay (seconds)</li>
 <li>hideAnimation (0 to 5)</li>
 
+## preloader with advanced parameters 
+```
+<script src='https://js.mingalartech.com/production/preloader.js?loadingText=Loading...&loadingImage=https://loading.io/mod/spinner/coffee/index.svg&bgColor=#25686B&textColor=white&delay=3&hideAnimation=5'></script>
+```
