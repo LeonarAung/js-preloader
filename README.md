@@ -28,4 +28,6 @@ parameter များအသုံးပြု၍ setting အား ပြင်
 ```
 
 ## Free to use in your websites (with analytic)
-contact leonaraung@mingalartech.com
+contact leonaraung@mingalartech.com for business purposes
+
+##Works under 99% of modern popular browsers
