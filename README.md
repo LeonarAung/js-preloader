@@ -1,5 +1,5 @@
 # js-preloader
-Javascript Preloader
+Javascript Preloader<br/>
 [test Demo](https://bbn112.blogspot.com/p/document.html)
 
 ## Simple Implementation
